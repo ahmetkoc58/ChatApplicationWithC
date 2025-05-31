@@ -1,0 +1,20 @@
+[2025-05-31 13:04:46] Server started
+[2025-05-31 13:06:34] Client connected: ahmet
+[2025-05-31 13:06:49] ahmet (broadcast): merhaba
+[2025-05-31 13:10:42] Client disconnected: ahmet
+[2025-05-31 13:13:13] Server started
+[2025-05-31 13:13:36] Client connected: ahmetkoc
+[2025-05-31 13:13:40] ahmetkoc (broadcast): merhaba
+[2025-05-31 13:14:15] Client connected: mehmetpolat
+[2025-05-31 13:14:21] mehmetpolat (broadcast): selam gencler
+[2025-05-31 13:14:55] mehmetpolat (broadcast): napıyosunuz
+[2025-05-31 13:15:07] ahmetkoc (broadcast): iyiyiz napalım
+[2025-05-31 13:15:23] ahmetkoc (broadcast): ben cıkıyorum gencler
+[2025-05-31 13:15:29] Client disconnected: ahmetkoc
+[2025-05-31 13:16:18] Client connected: mahmut
+[2025-05-31 13:16:31] mahmut (broadcast): selamun aleykum babalar
+[2025-05-31 13:16:46] mehmetpolat -> @mahmut: vay kardeşim hg
+[2025-05-31 13:17:17] mahmut -> @mehmetpolat: niye özelden yazıyon la
+[2025-05-31 13:17:46] Client disconnected: mahmut
+[2025-05-31 13:17:55] Client disconnected: mehmetpolat
+[2025-05-31 13:24:46] Server started
